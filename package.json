@@ -1,0 +1,25 @@
+{
+  "name": "role-based-authentication_part-1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon serve.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hunainansari350/Role-Based-Authentication_Part-1.git"
+  },
+  "author": "Hunain_Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hunainansari350/Role-Based-Authentication_Part-1/issues"
+  },
+  "homepage": "https://github.com/Hunainansari350/Role-Based-Authentication_Part-1#readme",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "express": "^5.2.1"
+  }
+}
